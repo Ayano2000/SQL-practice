@@ -1,1 +1,1 @@
-USE MovieDB;
+USE master;
